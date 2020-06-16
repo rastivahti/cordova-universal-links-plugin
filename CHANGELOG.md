@@ -1,5 +1,11 @@
 # Change Log
 
+## 1.2.2 (2020-06-16)
+
+**Bug fixes:**
+
+- [Issue #146](https://github.com/nordnet/cordova-universal-links-plugin/issues/146). Fixed path to manifest file.
+
 ## 1.2.1 (2016-10-23)
 
 **Bug fixes:**
